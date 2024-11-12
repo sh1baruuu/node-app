@@ -1,0 +1,13 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
